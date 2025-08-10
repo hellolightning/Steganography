@@ -18,17 +18,17 @@ With this tool, users can:
 # FEATURES
 
 
-* Secure Data Transmission – Hide sensitive information within images.
+* Secure Data Transmission â€“ Hide sensitive information within images.
 
-* Minimal Image Distortion – The original image remains visually unchanged.
+* Minimal Image Distortion â€“ The original image remains visually unchanged.
 
-* Password Protection – Only users with the correct passcode can retrieve the message.
+* Password Protection â€“ Only users with the correct passcode can retrieve the message.
 
-* Simple & Lightweight – Easy to use with a minimalistic approach.
+* Simple & Lightweight â€“ Easy to use with a minimalistic approach.
 
-* Supports Multiple Image Formats – Works with PNG, JPG, BMP, etc.
+* Supports Multiple Image Formats â€“ Works with PNG, JPG, BMP, etc.
 
-* Fast Encoding & Decoding – Real-time message encryption and decryption.
+* Fast Encoding & Decoding â€“ Real-time message encryption and decryption.
 
 
 
@@ -131,13 +131,14 @@ Decrypted Message: This is My project.
 
 # LICENSE
 
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use.
 
 
 
 # AUTHOR
 
 Yash G Jadhav
+
 
 
 
