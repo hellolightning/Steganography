@@ -1,4 +1,4 @@
-# SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
+# 🛡️ SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
 
 
 
@@ -138,6 +138,7 @@ This project is open-source and free to use.
 # AUTHOR
 
 Yash G Jadhav
+
 
 
 
